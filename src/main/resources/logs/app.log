@@ -1,0 +1,148 @@
+2019-02-04 01:02:33.740 [main] INFO   - Opened Site
+2019-02-04 01:02:35.756 [main] INFO   - Entered the signIn page
+2019-02-04 01:02:38.307 [main] INFO   - Signed in into account
+2019-02-04 01:02:40.728 [main] INFO   - Entered t-shirts category
+2019-38-04 11:38:20.825 [main] INFO   - Opened Site
+2019-38-04 11:38:23.597 [main] INFO   - Entered the signIn page
+2019-38-04 11:38:26.682 [main] INFO   - Signed in into account
+2019-38-04 11:38:28.742 [main] INFO   - Entered t-shirts category
+2019-38-04 11:38:30.760 [main] INFO   - Opened product
+2019-38-04 11:38:30.809 [main] INFO   - Bread crumbs are verified
+2019-38-04 11:38:33.713 [main] INFO   - Added to cart
+2019-38-04 11:38:36.346 [main] ERROR  - expected:<33.02> but was:<66.04>
+2019-39-04 11:39:32.654 [main] INFO   - Opened Site
+2019-39-04 11:39:36.097 [main] INFO   - Entered the signIn page
+2019-39-04 11:39:39.809 [main] INFO   - Signed in into account
+2019-39-04 11:39:44.114 [main] INFO   - Entered t-shirts category
+2019-39-04 11:39:49.098 [main] INFO   - Opened product
+2019-39-04 11:39:49.151 [main] INFO   - Bread crumbs are verified
+2019-39-04 11:39:59.466 [main] INFO   - Added to cart
+2019-40-04 11:40:04.907 [main] INFO   - Item successfully deleted
+2019-40-04 11:40:05.726 [main] INFO   - Site is closed
+2019-01-04 12:01:55.926 [main] INFO   - Opened Site
+2019-01-04 12:01:58.382 [main] INFO   - Entered the signIn page
+2019-02-04 12:02:00.495 [main] INFO   - Signed in into account
+2019-02-04 12:02:02.649 [main] INFO   - Entered t-shirts category
+2019-02-04 12:02:04.864 [main] INFO   - Opened product
+2019-02-04 12:02:04.864 [main] INFO   - Bread crumbs are verified
+2019-02-04 12:02:08.453 [main] INFO   - Added to cart
+2019-02-04 12:02:15.229 [main] INFO   - Item successfully deleted
+2019-02-04 12:02:16.078 [main] INFO   - Site is closed
+2019-04-04 12:04:05.245 [main] INFO   - Opened Site
+2019-04-04 12:04:07.416 [main] INFO   - Entered the signIn page
+2019-04-04 12:04:09.510 [main] INFO   - Signed in into account
+2019-04-04 12:04:11.932 [main] INFO   - Entered t-shirts category
+2019-04-04 12:04:14.184 [main] INFO   - Opened product
+2019-04-04 12:04:14.235 [main] INFO   - Bread crumbs are verified
+2019-04-04 12:04:18.172 [main] INFO   - Added to cart
+2019-04-04 12:04:21.783 [main] ERROR  - expected:<16.51> but was:<66.04>
+2019-05-04 12:05:53.196 [main] INFO   - Opened Site
+2019-05-04 12:05:55.435 [main] INFO   - Entered the signIn page
+2019-05-04 12:05:57.408 [main] INFO   - Signed in into account
+2019-05-04 12:05:59.319 [main] INFO   - Entered t-shirts category
+2019-06-04 12:06:02.770 [main] INFO   - Opened product
+2019-06-04 12:06:02.802 [main] INFO   - Bread crumbs are verified
+2019-06-04 12:06:05.959 [main] INFO   - Added to cart
+2019-06-04 12:06:12.292 [main] INFO   - Item successfully deleted
+2019-06-04 12:06:13.144 [main] INFO   - Site is closed
+2019-36-04 12:36:25.042 [main] INFO   - Opened Site
+2019-36-04 12:36:27.481 [main] INFO   - Entered the signIn page
+2019-36-04 12:36:29.350 [main] INFO   - Signed in into account
+2019-36-04 12:36:31.269 [main] INFO   - Entered t-shirts category
+2019-36-04 12:36:33.615 [main] INFO   - Opened product
+2019-36-04 12:36:33.648 [main] INFO   - Bread crumbs are verified
+2019-36-04 12:36:36.567 [main] INFO   - Added to cart
+2019-36-04 12:36:41.881 [main] INFO   - Item successfully deleted
+2019-36-04 12:36:42.716 [main] INFO   - Site is closed
+2019-58-04 15:58:17.869 [main] INFO   - Opened Site
+2019-58-04 15:58:19.822 [main] INFO   - Entered the signIn page
+2019-58-04 15:58:21.736 [main] INFO   - Signed in into account
+2019-58-04 15:58:23.898 [main] INFO   - Entered t-shirts category
+2019-58-04 15:58:25.861 [main] INFO   - Opened product
+2019-58-04 15:58:25.905 [main] INFO   - Bread crumbs are verified
+2019-58-04 15:58:28.763 [main] INFO   - Added to cart
+2019-58-04 15:58:44.235 [main] INFO   - Item successfully deleted
+2019-58-04 15:58:45.145 [main] INFO   - Site is closed
+2019-02-04 16:02:47.412 [main] INFO   - Opened Site
+2019-02-04 16:02:49.475 [main] INFO   - Entered the signIn page
+2019-02-04 16:02:51.935 [main] INFO   - Signed in into account
+2019-02-04 16:02:53.974 [main] INFO   - Entered t-shirts category
+2019-02-04 16:02:56.107 [main] INFO   - Opened product
+2019-02-04 16:02:56.174 [main] INFO   - Bread crumbs are verified
+2019-02-04 16:02:59.045 [main] INFO   - Added to cart
+2019-03-04 16:03:04.887 [main] INFO   - Item successfully deleted
+2019-03-04 16:03:05.725 [main] INFO   - Site is closed
+2019-19-06 21:19:17.721 [main] INFO   - Opened Site
+2019-19-06 21:19:19.659 [main] INFO   - Entered the signIn page
+2019-19-06 21:19:21.931 [main] INFO   - Signed in into account
+2019-19-06 21:19:23.995 [main] INFO   - Entered t-shirts category
+2019-19-06 21:19:25.800 [main] INFO   - Opened product
+2019-19-06 21:19:25.847 [main] INFO   - Bread crumbs are verified
+2019-19-06 21:19:28.800 [main] INFO   - Added to cart
+2019-19-06 21:19:32.413 [main] ERROR  - expected:<16.51> but was:<66.04>
+2019-19-06 21:19:54.368 [main] INFO   - Opened Site
+2019-19-06 21:19:56.420 [main] INFO   - Entered the signIn page
+2019-19-06 21:19:58.436 [main] INFO   - Signed in into account
+2019-20-06 21:20:00.557 [main] INFO   - Entered t-shirts category
+2019-20-06 21:20:02.524 [main] INFO   - Opened product
+2019-20-06 21:20:02.572 [main] INFO   - Bread crumbs are verified
+2019-20-06 21:20:05.481 [main] INFO   - Added to cart
+2019-20-06 21:20:10.638 [main] INFO   - Item successfully deleted
+2019-20-06 21:20:11.408 [main] INFO   - Site is closed
+2019-04-06 22:04:52.686 [main] INFO   - Opened Site
+2019-04-06 22:04:54.556 [main] INFO   - Entered the signIn page
+2019-04-06 22:04:56.682 [main] INFO   - Signed in into account
+2019-04-06 22:04:58.565 [main] INFO   - Entered t-shirts category
+2019-05-06 22:05:00.590 [main] INFO   - Opened product
+2019-05-06 22:05:00.681 [main] INFO   - Bread crumbs are verified
+2019-05-06 22:05:03.433 [main] INFO   - Added to cart
+2019-05-06 22:05:14.266 [main] ERROR  - Expected condition failed: waiting for text ('4') to be the value of element located by By.xpath: //td[@class='cart_quantity text-center']/input[@type='text'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GFL-2033', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_152'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.45.615291 (ec3682e3c9061c..., userDataDir: C:\Users\DTEREN~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:53555}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.119, webStorageEnabled: true}
+Session ID: a581edca08443d9c2c0e1377d4b925a6
+2019-05-06 22:05:34.074 [main] INFO   - Opened Site
+2019-05-06 22:05:35.750 [main] INFO   - Entered the signIn page
+2019-05-06 22:05:37.800 [main] INFO   - Signed in into account
+2019-05-06 22:05:39.797 [main] INFO   - Entered t-shirts category
+2019-05-06 22:05:41.659 [main] INFO   - Opened product
+2019-05-06 22:05:41.720 [main] INFO   - Bread crumbs are verified
+2019-05-06 22:05:45.368 [main] INFO   - Added to cart
+2019-05-06 22:05:49.836 [main] INFO   - Item successfully deleted
+2019-05-06 22:05:50.607 [main] INFO   - Site is closed
+2019-11-06 22:11:01.996 [main] INFO   - Opened Site
+2019-11-06 22:11:03.987 [main] INFO   - Entered the signIn page
+2019-11-06 22:11:06.183 [main] INFO   - Signed in into account
+2019-11-06 22:11:08.260 [main] INFO   - Entered t-shirts category
+2019-11-06 22:11:10.223 [main] INFO   - Opened product
+2019-11-06 22:11:10.302 [main] INFO   - Bread crumbs are verified
+2019-11-06 22:11:13.086 [main] INFO   - Added to cart
+2019-11-06 22:11:18.161 [main] INFO   - Item successfully deleted
+2019-11-06 22:11:18.927 [main] INFO   - Site is closed
+2019-20-07 02:20:08.137 [main] INFO   - Opened Site
+2019-20-07 02:20:10.211 [main] INFO   - Entered the signIn page
+2019-20-07 02:20:12.999 [main] INFO   - Signed in into account
+2019-20-07 02:20:15.188 [main] INFO   - Entered t-shirts category
+2019-20-07 02:20:17.252 [main] INFO   - Opened product
+2019-20-07 02:20:17.360 [main] INFO   - Bread crumbs are verified
+2019-20-07 02:20:20.466 [main] INFO   - Added to cart
+2019-20-07 02:20:25.089 [main] INFO   - Item successfully deleted
+2019-21-07 02:21:40.774 [main] INFO   - Opened Site
+2019-21-07 02:21:43.039 [main] INFO   - Entered the signIn page
+2019-21-07 02:21:45.922 [main] INFO   - Signed in into account
+2019-21-07 02:21:48.416 [main] INFO   - Entered t-shirts category
+2019-21-07 02:21:50.350 [main] INFO   - Opened product
+2019-21-07 02:21:50.462 [main] INFO   - Bread crumbs are verified
+2019-21-07 02:21:53.358 [main] INFO   - Added to cart
+2019-21-07 02:21:58.615 [main] INFO   - Item successfully deleted
+2019-21-07 02:21:59.385 [main] INFO   - Site is closed
+2019-31-07 02:31:59.301 [main] INFO   - Opened Site
+2019-32-07 02:32:01.731 [main] INFO   - Entered the signIn page
+2019-32-07 02:32:05.399 [main] INFO   - Signed in into account
+2019-32-07 02:32:10.812 [main] INFO   - Entered t-shirts category
+2019-32-07 02:32:13.464 [main] INFO   - Opened product
+2019-32-07 02:32:13.571 [main] INFO   - Bread crumbs are verified
+2019-32-07 02:32:16.706 [main] INFO   - Added to cart
+2019-32-07 02:32:22.741 [main] INFO   - Item successfully deleted
+2019-32-07 02:32:23.566 [main] INFO   - Site is closed
