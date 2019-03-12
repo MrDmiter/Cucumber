@@ -146,3 +146,37 @@ Session ID: a581edca08443d9c2c0e1377d4b925a6
 2019-32-07 02:32:16.706 [main] INFO   - Added to cart
 2019-32-07 02:32:22.741 [main] INFO   - Item successfully deleted
 2019-32-07 02:32:23.566 [main] INFO   - Site is closed
+2019-27-11 19:27:06.364 [main] INFO   - Opened Site
+2019-27-11 19:27:08.270 [main] INFO   - Entered the signIn page
+2019-29-11 19:29:13.793 [main] INFO   - Opened Site
+2019-29-11 19:29:15.829 [main] INFO   - Entered the signIn page
+2019-30-11 19:30:11.141 [main] INFO   - Opened Site
+2019-30-11 19:30:13.897 [main] INFO   - Entered the signIn page
+2019-30-11 19:30:15.630 [main] INFO   - Signed in into account
+2019-41-11 19:41:45.376 [main] INFO   - Opened Site
+2019-41-11 19:41:47.429 [main] INFO   - Entered the signIn page
+2019-41-11 19:41:49.711 [main] INFO   - Signed in into account
+2019-41-11 19:41:51.791 [main] INFO   - Entered t-shirts category
+2019-41-11 19:41:53.800 [main] INFO   - Opened product
+2019-41-11 19:41:53.893 [main] INFO   - Bread crumbs are verified
+2019-41-11 19:41:56.801 [main] INFO   - Added to cart
+2019-42-11 19:42:02.013 [main] INFO   - Item successfully deleted
+2019-42-11 19:42:02.866 [main] INFO   - Site is closed
+2019-44-11 19:44:02.424 [main] INFO   - Opened Site
+2019-44-11 19:44:04.769 [main] INFO   - Entered the signIn page
+2019-44-11 19:44:07.476 [main] INFO   - Signed in into account
+2019-44-11 19:44:09.664 [main] INFO   - Entered t-shirts category
+2019-44-11 19:44:11.608 [main] INFO   - Opened product
+2019-44-11 19:44:11.671 [main] INFO   - Bread crumbs are verified
+2019-44-11 19:44:15.259 [main] INFO   - Added to cart
+2019-44-11 19:44:20.053 [main] INFO   - Item successfully deleted
+2019-44-11 19:44:20.841 [main] INFO   - Site is closed
+2019-48-11 19:48:49.673 [main] INFO   - Opened Site
+2019-48-11 19:48:51.701 [main] INFO   - Entered the signIn page
+2019-48-11 19:48:54.339 [main] INFO   - Signed in into account
+2019-48-11 19:48:56.953 [main] INFO   - Entered t-shirts category
+2019-48-11 19:48:58.862 [main] INFO   - Opened product
+2019-48-11 19:48:58.914 [main] INFO   - Bread crumbs are verified
+2019-49-11 19:49:01.639 [main] INFO   - Added to cart
+2019-49-11 19:49:06.029 [main] INFO   - Item successfully deleted
+2019-49-11 19:49:06.891 [main] INFO   - Site is closed

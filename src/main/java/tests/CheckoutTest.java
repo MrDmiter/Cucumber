@@ -5,6 +5,7 @@ import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
+import org.junit.Assert;
 import pages.*;
 
 public class CheckoutTest extends AbstractTest {
@@ -31,9 +32,9 @@ public class CheckoutTest extends AbstractTest {
     }
 
     // Log in to the account
-    @And("Enters username, password and clicks on sign in")
-    public void entersUsernamePasswordAndClicksOnSignIn() {
-        myAccountPage = signInPage.signIn();
+    @And("Enters username '([^\\\"]*)', password '([^\\\"]*)' and clicks on sign in")
+    public void entersUsernamePasswordAndClicksOnSignIn(String username, String password) {
+        myAccountPage = signInPage.signIn(username,password);
         log("Signed in into account");
     }
 
@@ -51,16 +52,16 @@ public class CheckoutTest extends AbstractTest {
     }
 
     // Enter the product page
-    @And("Click on the needed product")
-    public void clickOnTheNeededProduct() {
-        productPage = tShirtsPage.clickOnProduct("Faded Short Sleeve T-shirts");
+    @And("Click on the needed product '([^\\\"]*)'")
+    public void clickOnTheNeededProduct(String expectedTitle) {
+        productPage = tShirtsPage.clickOnProduct(expectedTitle);
         log("Opened product");
     }
 
     // Check whether we on the right page comparing breadcrumbs
-    @Then("Verify correctness of the breadcrumbs")
-    public void verifyCorrectnessOfTheBreadCrumbs() {
-        productPage.verifyBreadCrumbs("> Women>Tops>T-shirts>Faded Short Sleeve T-shirts");
+    @Then("Breadcrumbs should be '([^\\\"]*)'")
+    public void verifyCorrectnessOfTheBreadCrumbs(String expectedBreadCrumbs) {
+        productPage.verifyBreadCrumbs(expectedBreadCrumbs);
         log("Bread crumbs are verified");
     }
 
